@@ -1,0 +1,12 @@
+streamlit
+calendar
+pandas
+numpy
+matplotlib
+seaborn
+altair
+scikit-learn
+wordcloud
+pre_process
+helper
+textblob
